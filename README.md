@@ -2,6 +2,8 @@
 
 Simulate the process of picking numbers in lottery show with HTML canvas.
 
+![alt Screenshot of game GUI](./bouncing_balls_screenshot.png)
+
 ## How to play
 
 1. Download this repository to your computer
